@@ -84,6 +84,36 @@ into your terminal. Upon doing so, you should receive the following output:
 git version <version number>
 ```
 
+**Step 2: Install Python**
+In your terminal, type the following commands:
+```
+xcode-select --install
+```
+```
+ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+```
+
+To confirm that your package manager Homebrew has been correctly installed, type the following command:
+```
+brew doctor
+```
+Upon typing this, you should see the following output:
+```
+Your system is ready to brew.
+```
+After installing Homebrew, we can finally install Python (and pip, the package installer for Python) using the following command:
+```
+brew install python3
+```
+To confirm that Python is downloaded, you can type: 
+```
+python3 --version
+```
+to which you will see:
+```
+ Python <version number>
+```
+
 # Understanding the Program
 
 
