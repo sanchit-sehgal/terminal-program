@@ -64,7 +64,7 @@ sudo pacman -Syy && sudo pacman -Syu --noconfirm
 yum update -y
 ```
 ```
-yum intsall -y python2
+yum install -y python2
 ```
 _You have now installed Python!_
 
