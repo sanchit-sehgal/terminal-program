@@ -15,11 +15,39 @@ This program was initially designed for Arch Linux users only- however, I have s
 
 **Step 1: Install Git (for all distros)**
 
+Copy (Ctrl+C) and paste (Ctrl+Shift+V) into your opened terminal. 
+
 - Debain-based Distros: ```sudo apt-get install git```
 
 - Arch-based Distros: ```sudo pacman -S git --noconfirm```
 
 - Fedora-based Distros: ```sudo dnf install git-all```
+
+**Step 2: Install Python (for all distros)**
+
+- Debain-based Distros: ```sudo apt update```
+```
+sudo apt install build-essential zlib1g-dev libncurses5-dev libgdbm-dev libnss3-dev libssl-dev libsqlite3-dev libreadline-dev libffi-dev curl libbz2-dev
+```
+```
+wget https://www.python.org/ftp/python/3.9.1/Python-3.9.1.tgz
+```
+```
+tar -xf Python-3.9.1.tgz
+```
+```
+cd Python-3.9.1
+```
+```
+./configure --enable-optimizations
+```
+```
+make -j 2
+```
+```
+sudo make altinstall
+```
+
 
 # Installation Guide (for Windows)
 
