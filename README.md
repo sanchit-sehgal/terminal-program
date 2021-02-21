@@ -15,9 +15,11 @@ This program was initially designed for Arch Linux users only- however, I have s
 
 **Step 1: Install Git (for all distros)**
 
-Debain-based Distros: ```sudo apt-get install git```
-Arch-based Distros: ```sudo pacman -S git --noconfirm```
-Fedora-based Distros: ```sudo dnf install git-all```
+- Debain-based Distros: ```sudo apt-get install git```
+
+- Arch-based Distros: ```sudo pacman -S git --noconfirm```
+
+- Fedora-based Distros: ```sudo dnf install git-all```
 
 # Installation Guide (for Windows)
 
