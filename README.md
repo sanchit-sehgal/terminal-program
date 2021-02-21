@@ -70,7 +70,19 @@ _You have now installed Python!_
 
 # Installation Guide (for Windows)
 
+
 # Installation Guide (for macOS)
+
+**Step 1: Install Git**
+You can easily install git by using the following [link](https://sourceforge.net/projects/git-osx-installer/files/) and following the prompts to successfully install Git. Once you have done so, type:
+```
+git --version
+```
+into your terminal. Upon doing so, you should receive the following output:
+
+```
+git version <version number>
+```
 
 # Understanding the Program
 
