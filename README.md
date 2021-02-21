@@ -65,10 +65,7 @@ yum update -y
 ```
 yum intsall -y python2
 ```
-      Verify installation by typing:
-      ```
-      python3
-      ```
+_You have now installed Python!_
 
 # Installation Guide (for Windows)
 
