@@ -24,6 +24,7 @@ Copy (Ctrl+C) and paste (Ctrl+Shift+V) into your opened terminal.
 - Fedora-based Distros: ```sudo dnf install git-all```
 
 **Step 2: Install Python (for all distros)**
+Copy and paste all of these commands into your opened terminal based on what distribution you are using
 
 - Debain-based Distros: 
 ```
