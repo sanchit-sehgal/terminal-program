@@ -25,7 +25,10 @@ Copy (Ctrl+C) and paste (Ctrl+Shift+V) into your opened terminal.
 
 **Step 2: Install Python (for all distros)**
 
-- Debain-based Distros: ```sudo apt update```
+- Debain-based Distros: 
+```
+sudo apt update
+```
 ```
 sudo apt install build-essential zlib1g-dev libncurses5-dev libgdbm-dev libnss3-dev libssl-dev libsqlite3-dev libreadline-dev libffi-dev curl libbz2-dev
 ```
@@ -47,7 +50,25 @@ make -j 2
 ```
 sudo make altinstall
 ```
+- Arch-based Distros:
 
+```
+sudo pacman -S python
+```
+```
+sudo pacman -Syy && sudo pacman -Syu --noconfirm
+```
+- Fedora-based Distros:
+```
+yum update -y
+```
+```
+yum intsall -y python2
+```
+  Verify installation by typing:
+  ```
+  python3
+  ```
 
 # Installation Guide (for Windows)
 
