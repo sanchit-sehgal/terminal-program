@@ -1,7 +1,5 @@
 #!/bin/bash
 
-
-
 echo "Installing Dependencies... "
 sudo pacman -S python --noconfirm
 sudo pacman -S tk --noconfirm
