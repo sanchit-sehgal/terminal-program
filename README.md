@@ -1,5 +1,3 @@
-# About This Program
-
 # About Terminal-Simplifier
 
 # Installation Guide (Arch-based Distributions)
