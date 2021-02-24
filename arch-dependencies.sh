@@ -18,11 +18,12 @@ git clone https://aur.archlinux.org/bastet.git
 cd bastet
 makepkg -si --noconfirm
 cd -
-sudo pacman -S pydf
-sudo pacman -S hwinfo
+sudo pacman -S pydf --noconfirm
+sudo pacman -S hwinfo --noconfirm
 pip install pyautogui
 pip install PyDictionary
 pip install pynput
 pip install pygame
 
+echo ""
 echo "All dependencies installed."
