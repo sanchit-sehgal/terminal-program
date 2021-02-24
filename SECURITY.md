@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-Currently, the following versions of terminal-simplifier are supported.
+Currently, the following versions of terminal-simplifier are supported:
 
 | Version | Supported          |
 | ------- | ------------------ |
