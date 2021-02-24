@@ -1,13 +1,14 @@
 #!/bin/bash
 
 echo "Installing Dependencies... "
+echo ""
 sudo pacman -S python --noconfirm
 sudo pacman -S tk --noconfirm
 sudo pacman -S tensorflow --noconfirm
-sudo pacman -S w3m
-sudo pacman -S curl
-sudo pacman -S nnn
-sudo pacman -S sl
+sudo pacman -S w3m --noconfirm
+sudo pacman -S curl --noconfirm
+sudo pacman -S nnn --noconfirm
+sudo pacman -S sl --noconfirm
 git clone https://aur.archlinux.org/nudoku-git.git
 cd nudoku-git
 makepkg -si --noconfirm
@@ -17,10 +18,9 @@ cd bastet
 makepkg -si --noconfirm
 cd -
 sudo pacman -S pydf
-sudo pacman -S 
+sudo pacman -S hwinfo
 pip install pyautogui
 pip install PyDictionary
 pip install pynput
 pip install pygame
-
-
+echo "All dependencies installed"
