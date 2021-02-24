@@ -2,19 +2,19 @@
 
 # Installation Guide (Arch-based Distributions)
 
-### Install Git
+#### Install Git
 
-### Install Python (and Pip)
+#### Install Python (and Pip)
 
-### Install Required Dependencies
+#### Install Required Dependencies
 
 # Installation Guide (Debain-based Distributions)
 
 #### Install Git
 
-### Install Python (and Pip)
+#### Install Python (and Pip)
 
-### Install Required Dependencies
+#### Install Required Dependencies
 
 # Run Terminal-Simplifier
 
