@@ -4,7 +4,7 @@
 
 ### Install Git
 
-### Install Python
+### Install Python (and Pip)
 
 ### Install Required Dependencies
 
@@ -12,7 +12,7 @@
 
 ### Install Git
 
-### Install Python
+### Install Python (and Pip)
 
 ### Install Required Dependencies
 
