@@ -1,7 +1,8 @@
 #!/bin/bash
 
-echo "Installing Dependencies... "
 sudo su
+
+echo "Installing Dependencies... "
 sudo pacman -S python --noconfirm
 sudo pacman -S tk --noconfirm
 sudo pacman -S tensorflow --noconfirm
