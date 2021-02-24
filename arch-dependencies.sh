@@ -1,6 +1,6 @@
 #!/bin/bash
 
-sudo su
+
 
 echo "Installing Dependencies... "
 sudo pacman -S python --noconfirm
@@ -25,4 +25,4 @@ pip install PyDictionary
 pip install pynput
 pip install pygame
 
-exit
+
