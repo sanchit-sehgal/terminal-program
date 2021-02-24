@@ -49,7 +49,7 @@ def new_query():
 	os.system("clear")
 	print_options()
 	print("")
-	action = input("Enter the corresponding number for the action you would like to run: ")
+	action = int(input("Enter the corresponding number for the action you would like to run: "))
 	print("")
 	if action == 1:
 		send_noti()
