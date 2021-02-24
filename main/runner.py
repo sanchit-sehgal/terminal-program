@@ -85,7 +85,7 @@ def new_query():
 		play_sudoku()
 	elif action == 17:
 		play_tetris()
-	elif not (type(action) == int) or not 1<=action<=16:
+	elif not (type(action) == int) or not 1<=action<=17:
 		print("Not a valid option!")
 		print("")
 
