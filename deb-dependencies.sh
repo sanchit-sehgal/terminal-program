@@ -12,7 +12,6 @@ sudo apt-get install nudoku
 sudo apt-get install bastet
 sudo apt-get install pydf
 sudo apt-get install hwinfo
-
 pip install pyautogui
 pip install PyDictionary
 pip install pynput
