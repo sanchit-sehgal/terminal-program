@@ -10,7 +10,7 @@
 
 # Installation Guide (Debain-based Distributions)
 
-### Install Git
+#### Install Git
 
 ### Install Python (and Pip)
 
