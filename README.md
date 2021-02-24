@@ -1,4 +1,4 @@
-# About This Porgram
+# About This Program
 
 # About Terminal-Simplifier
 
