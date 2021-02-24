@@ -23,4 +23,5 @@ pip install pyautogui
 pip install PyDictionary
 pip install pynput
 pip install pygame
+
 exit
