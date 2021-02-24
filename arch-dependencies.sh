@@ -2,6 +2,7 @@
 
 echo "Installing Dependencies... "
 echo ""
+
 sudo pacman -S python --noconfirm
 sudo pacman -S tk --noconfirm
 sudo pacman -S tensorflow --noconfirm
@@ -23,4 +24,5 @@ pip install pyautogui
 pip install PyDictionary
 pip install pynput
 pip install pygame
-echo "All dependencies installed"
+
+echo "All dependencies installed."
