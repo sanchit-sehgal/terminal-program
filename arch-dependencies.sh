@@ -24,6 +24,7 @@ pip install pyautogui
 pip install PyDictionary
 pip install pynput
 pip install pygame
+pip install tqdm
 
 echo ""
 echo "All dependencies installed."
