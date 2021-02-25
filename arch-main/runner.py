@@ -95,7 +95,7 @@ def rerun_prog():
 		return True
 	else:
 		print("")
-		print("Thanks for running the program. If you would like to run it again separately, type \"python runner.py\" in your terminal! Your terminal will be cleared and will close automatically.")
+		print("Thanks for running the program. If you would like to run it again separately, type \"./runner.py\" in your terminal! Your terminal will be cleared and will close automatically.")
 		time.sleep(3)
 		os.system("clear")
 		return False
