@@ -35,7 +35,6 @@ SOFTWARE.
 
 import os
 import subprocess
-import pyautogui
 import time 
 from spinningcursor import spinning_cursor
 from spinningcursor import progress_bar
@@ -95,7 +94,7 @@ def rerun_prog():
 		return True
 	else:
 		print("")
-		print("Thanks for running the program. If you would like to run it again separately, type \"python runner.py\" in your terminal! Your terminal will be cleared and will close automatically.")
+		print("Thanks for running the program. If you would like to run it again separately, type \./deb-simplifier\" in your terminal! Your terminal will be cleared and will close automatically.")
 		time.sleep(3)
 		os.system("clear")
 		return False
