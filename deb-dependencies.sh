@@ -2,6 +2,9 @@
 
 
 sudo apt-get -y install python3
+sudo apt-get -y install snapd
+sudo snap install core
+sudo snapo install tqdm
 sudo apt-get -y install notify-osd
 apt-get install -y libnotify-bin
 sudo apt-get install -y w3m
