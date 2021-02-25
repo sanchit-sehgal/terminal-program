@@ -53,10 +53,48 @@ Once this command is finished executing, you have successfully installed Termina
 ## Installation Guide (Ubuntu + Debain-based Distributions)
 
 ##### Install Git
+Once you have opened your terminal, you need to first install git. In Ubuntu and Debian based distributions, git can be installed by typing the following code:
+```
+sudo apt-get install git
+```
 
 ##### Install Python (and Pip)
+To install Python (and its package manager- pip), type the following code into your terminal:
+```
+sudo apt-get install python
+```
+This will automatically download the latest version of Python onto your system. This is essential to run the program.
 
 ##### Install Required Dependencies
+To install the dependencies, you first need to clone this repository into our terminal. To do so, press the green code button as seen in the following image:
+![alt text](screenshots/codebutton.png)
+Make sure you have selected HTTPS as shown below. Then, press the clipboard button to copy the repository link, as seen here:
+
+
+
+![alt text](screenshots/clipboardbutton.png)
+
+Once you have copied the link to the repository, you need to head back to the terminal. On a new line, you need to type the following:
+```
+git clone **link**
+```
+where link is our copied repository link. You can paste this by pressing **Ctrl+Shift+V**. When you enter this command, you should see something resembling this:
+
+![alt text](screenshots/clonedrepo.png) 
+
+Once you have cloned the repository, type the following command into your terminal:
+```
+cd terminal-simplifier
+```
+
+You are now in terminal-simplifier directory which you have just created. Once you have entered the directory, you need to execute our dependency installer by typing the following commands into our terminal:
+```
+chmod u+x deb-dependencies.sh
+```
+```
+./deb-dependencies.sh
+```
+Once this command is finished executing, you have successfully installed Terminal Simplifier!
 
 ## Run Terminal-Simplifier
 
