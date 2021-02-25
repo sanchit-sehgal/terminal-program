@@ -117,22 +117,22 @@ Once this command is finished executing, you have successfully installed Termina
 ##### Arch (and Arch-based Distributions)
 To set up the terminal-simplifier runner, you need to first execute the following command **while we are in our "terminal-simplifier directory**:
 ```
-chmod u+x arch-simplifier.sh
+chmod u+x arch-simplifier
 ```
 Once you have creatd an executable file, you can run the program whenever you wish with the following command:
 ```
-./arch-simplifier.sh
+./arch-simplifier
 ```
 You have fully installed and ran Terminal Simplifier on Arch Linux! Congratulations!
 
 ##### Debian/Ubuntu (and Debian-based Distributions)
 To set up the terminal-simplifier runner, you need to first execute the following command **while we are in our "terminal-simplifier directory**:
 ```
-chmod u+x deb-simplifier.sh
+chmod u+x deb-simplifier
 ```
 Once you have creatd an executable file, you can run the program whenever you wish with the following command:
 ```
-./deb-simplifier.sh
+./deb-simplifier
 ```
 You have fully installed and ran Terminal Simplifier on Debian! Congratulations!
 
