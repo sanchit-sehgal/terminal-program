@@ -76,13 +76,11 @@ Once you have entered your root environment, you have to install the dependency 
 apt-get install -y libnotify-bin
 ```
 
-Finally, once this dependency has been installed, you can return to your base environment and back into your directory by using the following commands:
+Finally, once this dependency has been installed, you can return to your base environment using this command:
 ```
 exit
 ```
-```
-cd terminal-simplifier
-```
+
 ##### Install Required Dependencies
 To install the dependencies, you first need to clone this repository into our terminal. To do so, press the green code button as seen in the following image:
 ![alt text](screenshots/codebutton.png)
