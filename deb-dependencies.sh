@@ -12,6 +12,7 @@ sudo apt-get install -y bastet
 sudo apt-get install -y pydf
 sudo apt-get install -y hwinfo
 sudo apt-get install -y nnn
+sudo apt-get install -y python3-pip
 pip install pyautogui
 pip install PyDictionary
 pip install pynput
