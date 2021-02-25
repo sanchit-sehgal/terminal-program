@@ -145,3 +145,5 @@ Greetings! My name is Sanchit Sehgal, and I am a sophomore in a high school in A
 Since then, I have decided to publish code that I have written to help people who were in a similar position to myself not long ago. This program greatly simplifies the terminal for those who may be intimidated by it and assumes a much more approachable take on it. I hope that you can find this terminal simplifier as useful as I do. 
 
 To contact me directly, please reach out to me at: sanchit830sehgal@gmail.com
+
+\*not emphasized\*
