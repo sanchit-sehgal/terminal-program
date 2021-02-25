@@ -2,7 +2,7 @@
 
 echo "Installing Dependencies... "
 echo ""
-
+sudo pacman -S libnotify --noconfirm
 sudo pacman -S python --noconfirm
 sudo pacman -S tk --noconfirm
 sudo pacman -S tensorflow --noconfirm
