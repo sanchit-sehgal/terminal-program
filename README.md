@@ -132,5 +132,11 @@ This program and its corresponding code is covered under the MIT License. For mo
 For this repository's wiki, view [this page.](https://github.com/sanchit-sehgal/terminal-simplifier/wiki/Introduction)
 
 ## Other Important Documents
+There are a few other documents that you may find important. 
+
+- To contribute to this repository, please reference [this page.](https://github.com/sanchit-sehgal/terminal-simplifier/blob/main/CONTRIBUTING.md) 
+- To learn about security and malware prevention for this project, please view [this page.](https://github.com/sanchit-sehgal/terminal-simplifier/blob/main/SECURITY.md) 
+- To view this repository's Code of Conduct, please view [this page.](https://github.com/sanchit-sehgal/terminal-simplifier/blob/main/SECURITY.md) 
+- Finally, to view any Python pip packages that are supported by this repository, please view the folder titled ".github" that can be found in the contents of this repository.
 
 ## About the Creator
