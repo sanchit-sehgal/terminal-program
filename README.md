@@ -35,6 +35,22 @@ git clone **link**
 ```
 where link is our copied repository link. We can paste this by pressing **Ctrl+Shift+V**. When you enter this command, you should see something resembling this:
 
+![alt text](screenshots/clonedrepo.png)
+
+Once we have cloned into the repository, type the following command into your terminal:
+```
+cd terminal-simplifier
+```
+
+We are now in terminal-simplifier directory which we have just created. Once we have entered the directory, we need to execute our dependency installer by typing the following commands into our terminal:
+```
+chmod u+x arch-dependencies.sh
+```
+```
+./arch-dependencies.sh
+```
+Once this command is finished executing, we have successfully installed Terminal Simplifier!
+
 ## Installation Guide (Ubuntu + Debain-based Distributions)
 
 ##### Install Git
