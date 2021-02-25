@@ -50,7 +50,7 @@ chmod u+x arch-dependencies.sh
 ```
 Once this command is finished executing, you have successfully installed Terminal Simplifier!
 
-## Installation Guide (Ubuntu + Debain-based Distributions)
+## Installation Guide (Ubuntu + Debiann-based Distributions)
 
 ##### Install Git
 Once you have opened your terminal, you need to first install git. In Ubuntu and Debian based distributions, git can be installed by typing the following code:
@@ -65,6 +65,24 @@ sudo apt-get install python
 ```
 This will automatically download the latest version of Python onto your system. This is essential to run the program.
 
+#### Install Libnotify-Bin
+To install this particular dependency, you have to enter your root environment. This can be done by simply entering the following into your terminal:
+```
+sudo su
+```
+
+Once you have entered your root environment, you have to install the dependency using the following command:
+```
+apt-get install -y libnotify-bin
+```
+
+Finally, once this dependency has been installed, you can return to your base environment and back into your directory by using the following commands:
+```
+exit
+```
+```
+cd terminal-simplifier
+```
 ##### Install Required Dependencies
 To install the dependencies, you first need to clone this repository into our terminal. To do so, press the green code button as seen in the following image:
 ![alt text](screenshots/codebutton.png)
@@ -94,7 +112,7 @@ chmod u+x deb-dependencies.sh
 ```
 ./deb-dependencies.sh
 ```
-Once this command is finished executing, you have successfully installed Terminal Simplifier!
+Once this command is finished executing, you have successfully installed Terminal Simplifier on Debian (or any other Debain-based distro)!
 
 ## Run Terminal-Simplifier
 
