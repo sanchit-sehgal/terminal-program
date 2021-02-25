@@ -134,9 +134,14 @@ For this repository's wiki, view [this page.](https://github.com/sanchit-sehgal/
 ## Other Important Documents
 There are a few other documents that you may find important. 
 
-- To contribute to this repository, please reference [this page.](https://github.com/sanchit-sehgal/terminal-simplifier/blob/main/CONTRIBUTING.md) 
-- To learn about security and malware prevention for this project, please view [this page.](https://github.com/sanchit-sehgal/terminal-simplifier/blob/main/SECURITY.md) 
-- To view this repository's Code of Conduct, please view [this page.](https://github.com/sanchit-sehgal/terminal-simplifier/blob/main/SECURITY.md) 
-- Finally, to view any Python pip packages that are supported by this repository, please view the folder titled ".github" that can be found in the contents of this repository.
+- To contribute to this repository, please reference [this page.](/CONTRIBUTING.md) 
+- To learn about security and malware prevention for this project, please view [this page.](SECURITY.md) 
+- To view this repository's Code of Conduct, please view [this page.](/CODE_OF_CONDUCT.md) 
+- Finally, to view any Python pip packages that are supported by this repository, please view the folder titled ".github" that can be found in the contents of this repository (or can be found at [this link](https://github.com/sanchit-sehgal/terminal-simplifier/tree/main/.github/workflows)).
 
 ## About the Creator
+Greetings! My name is Sanchit Sehgal, and I am a sophomore in a high school in Atlanta, Georgia, in the United States. Initially, I created this project to help simplify the terminal for myself- when I first installed Linux, I was completely unfamiliar with it. However, while creating this project, I learned a great deal about how useful the terminal is and began using it daily in my workflow. 
+
+Since then, I have decided to publish code that I have written to help people who were in a similar position to myself not long ago. This program greatly simplifies the terminal for those who may be intimidated by it and assumes a much more approachable take on it. I hope that you can find this terminal simplifier as useful as I do. 
+
+To contact me directly, please reach out to me at: sanchit830sehgal@gmail.com
