@@ -27,4 +27,4 @@
 # About the Creator
 
 # License
-This program and its corresponding code is covered under the MIT License. For more information on the license, view LICENSE.md [here.](https://github.com/sanchit-sehgal/terminal-simplifier/blob/main/LICENSE)
+This program and its corresponding code is covered under the MIT License. For more information on the license, [view LICENSE.md here.](https://github.com/sanchit-sehgal/terminal-simplifier/blob/main/LICENSE)
