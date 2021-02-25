@@ -21,3 +21,5 @@
 # Troubleshooting Guide
 
 # About the Creator
+
+# License
