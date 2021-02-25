@@ -30,9 +30,9 @@ Make sure you have selected HTTPS as shown below. Then, press the clipboard butt
 
 Once you have copied the link to the repository, you need to head back to the terminal. On a new line, you need to type the following:
 ```
-git clone **link**
+git clone link
 ```
-where link is our copied repository link. You can paste this by pressing **Ctrl+Shift+V**. When you enter this command, you should see something resembling this:
+where "link" is our copied repository link. You can paste this by pressing **Ctrl+Shift+V**. When you enter this command, you should see something resembling this:
 
 ![alt text](screenshots/clonedrepo.png) 
 
@@ -76,9 +76,9 @@ Make sure you have selected HTTPS as shown below. Then, press the clipboard butt
 
 Once you have copied the link to the repository, you need to head back to the terminal. On a new line, you need to type the following:
 ```
-git clone **link**
+git clone link
 ```
-where link is our copied repository link. You can paste this by pressing **Ctrl+Shift+V**. When you enter this command, you should see something resembling this:
+where "link" is our copied repository link. You can paste this by pressing **Ctrl+Shift+V**. When you enter this command, you should see something resembling this:
 
 ![alt text](screenshots/clonedrepo.png) 
 
