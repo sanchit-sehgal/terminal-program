@@ -5,7 +5,7 @@ Installing this program may seem tricky, but by using the installation guide bel
 
 # Installation Guide (Arch-based Distributions)
 
-#### Install Git
+##### Install Git
 Once you have opened your terminal, we need to first install git. In Arch Linux based distributions, git can be installed by typing the following code:
 ```
 sudo pacman -S git --noconfirm
