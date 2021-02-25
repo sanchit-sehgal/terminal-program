@@ -8,7 +8,7 @@
 
 #### Install Required Dependencies
 
-# Installation Guide (Debain-based Distributions)
+# Installation Guide (Ubuntu + Debain-based Distributions)
 
 #### Install Git
 
