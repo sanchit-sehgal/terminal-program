@@ -20,6 +20,20 @@ sudo pacman -S python --noconfirm
 This will automatically download the latest version of Python onto your system. This is essential to run the program.
 
 ##### Install Required Dependencies
+To install the dependencies, we first need to clone this repository into our terminal. To do so, press the green code button as seen in the following image:
+![alt text](screenshots/codebutton.png)
+
+Make sure you have selected HTTPS as shown below. Then, press the clipboard button to copy the repository link, as seen here:
+
+
+
+![alt text](screenshots/clipboardbutton.png)
+
+Once you have copied the link to the repository, we need to head back to the terminal. On a new line, we need to type the following:
+```
+git clone **link**
+```
+where link is our copied repository link. We can paste this by pressing **Ctrl+Shift+V**. When you enter this command, you should see something resembling this:
 
 ## Installation Guide (Ubuntu + Debain-based Distributions)
 
