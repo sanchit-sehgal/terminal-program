@@ -65,7 +65,7 @@ sudo apt-get install python
 ```
 This will automatically download the latest version of Python onto your system. This is essential to run the program.
 
-#### Install Libnotify-Bin
+##### Install Libnotify-Bin
 To install this particular dependency, you have to enter your root environment. This can be done by simply entering the following into your terminal:
 ```
 sudo su
