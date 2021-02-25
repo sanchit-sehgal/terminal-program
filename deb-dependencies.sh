@@ -1,6 +1,6 @@
 #!/bin/bash
 
-
+sudo apt-get -y update && sudo apt-get -y upgrade
 sudo apt-get -y install python3
 sudo apt-get -y install snapd
 sudo snap install core
@@ -21,5 +21,3 @@ pip3 install PyDictionary
 pip3 install pynput
 pip3 install pygame
 pip3 install tdqm
-
-
