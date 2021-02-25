@@ -99,10 +99,31 @@ Once this command is finished executing, you have successfully installed Termina
 ## Run Terminal-Simplifier
 
 ##### Arch (and Arch-based Distributions)
+To set up the terminal-simplifier runner, you need to first execute the following command **while we are in our "terminal-simplifier directory**:
+```
+chmod u+x arch-simplifier.sh
+```
+Once you have creatd an executable file, you can run the program whenever you wish with the following command:
+```
+./arch-simplifier.sh
+```
+You have fully installed and ran Terminal Simplifier on Arch Linux! Congratulations!
 
 ##### Debian/Ubuntu (and Debian-based Distributions)
+To set up the terminal-simplifier runner, you need to first execute the following command **while we are in our "terminal-simplifier directory**:
+```
+chmod u+x deb-simplifier.sh
+```
+Once you have creatd an executable file, you can run the program whenever you wish with the following command:
+```
+./deb-simplifier.sh
+```
+You have fully installed and ran Terminal Simplifier on Debian! Congratulations!
 
 ## Troubleshooting Guide
+Throughout the installation of this program, your terminal may ask you to enter your "sudo" password. This is nothing to be afraid of. Unless you specifically set a "sudo" password when you installed your Linux distribution, it will normally be automatically set to your computer's login password.
+
+If there are any other concerns/issues with installing the program, please send a request in the Issues tab of this repository. I will attend to it as soon as I can.
 
 ## License
 This program and its corresponding code is covered under the MIT License. For more information on the license, [view LICENSE.md here.](https://github.com/sanchit-sehgal/terminal-simplifier/blob/main/LICENSE)
