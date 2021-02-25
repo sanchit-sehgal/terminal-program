@@ -13,10 +13,10 @@ sudo apt-get install -y pydf
 sudo apt-get install -y hwinfo
 sudo apt-get install -y nnn
 sudo apt-get install -y python3-pip
-pip install pyautogui
-pip install PyDictionary
-pip install pynput
-pip install pygame
-pip install tdqm
+pip3 install pyautogui
+pip3 install PyDictionary
+pip3 install pynput
+pip3 install pygame
+pip3 install tdqm
 
 
