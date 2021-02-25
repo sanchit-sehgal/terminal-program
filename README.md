@@ -18,6 +18,10 @@
 
 # Run Terminal-Simplifier
 
+#### Arch (and Arch-based Distributions)
+
+#### Debian/Ubuntu (and Debian-based Distributions)
+
 # Troubleshooting Guide
 
 # About the Creator
