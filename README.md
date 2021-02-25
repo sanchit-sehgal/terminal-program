@@ -21,8 +21,7 @@ This will automatically download the latest version of Python onto your system. 
 
 ##### Install Required Dependencies
 To install the dependencies, you first need to clone this repository into our terminal. To do so, press the green code button as seen in the following image:
-![alt text](screenshots/codebutton.png)
-
+![alt text](
 Make sure you have selected HTTPS as shown below. Then, press the clipboard button to copy the repository link, as seen here:
 
 
