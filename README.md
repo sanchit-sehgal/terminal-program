@@ -35,7 +35,7 @@ git clone **link**
 ```
 where link is our copied repository link. You can paste this by pressing **Ctrl+Shift+V**. When you enter this command, you should see something resembling this:
 
-![alt text](screenshots/clonedrepo.png)
+![alt text](screenshots/clonedrepo.png) 
 
 Once you have cloned the repository, type the following command into your terminal:
 ```
