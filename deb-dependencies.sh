@@ -1,6 +1,5 @@
 #!/bin/bash
 
-sudo su 
 
 sudo apt-get -y install python3
 sudo apt-get -y install notify-osd
@@ -19,4 +18,4 @@ pip install pynput
 pip install pygame
 pip install tdqm
 
-exit 
+
