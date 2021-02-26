@@ -276,6 +276,8 @@ def search_term():
 					print("The definition of {word} is: ".format(word=word))
 					print("")
 					print(returnans)
+					print("")
+					redo = str(input("Would you like to search another word? [Y/N] "))
 				except IndexError as error:
 					print("This word was not found in our dictionary. However, we are still expanding our vocabulary. Hopefully we can understand your search term one day!")
 			except IndexError as error:
@@ -289,6 +291,8 @@ def search_term():
 					print("")
 					print("")
 					print(returnans)
+					print("")
+					redo = str(input("Would you like to search another word? [Y/N] "))
 				except IndexError as error:
 					print("We could not find any synonyms for this word. Sorry!")
 			except IndexError as error:
@@ -302,6 +306,8 @@ def search_term():
 					print("")
 					print("")
 					print(returnans)
+					print("")
+					redo = str(input("Would you like to search another word? [Y/N] "))
 				except IndexError as error:
 					print("We could not find any antonyms for this word. Sorry!")
 			except IndexError as error:
