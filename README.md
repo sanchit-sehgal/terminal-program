@@ -50,7 +50,7 @@ chmod u+x arch-dependencies.sh
 ```
 Once this command is finished executing, you have successfully installed Terminal Simplifier!
 
-## Installation Guide (Ubuntu + Debiann-based Distributions)
+## Installation Guide (Ubuntu + Debian-based Distributions)
 
 ##### Install Git
 Once you have opened your terminal, you need to first install git. In Ubuntu and Debian based distributions, git can be installed by typing the following code:
