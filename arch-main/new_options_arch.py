@@ -314,6 +314,10 @@ def search_term():
 				print("We could not find any antonyms for this word. Sorry!")
 		else:
 			print("This is not a valid option! Sorry!")
+	if redo == "N" or redo == "n":
+		print("")
+		print("Thanks for picking this option!")
+		print("")
 	print("")
 
 def steam_loco():
