@@ -601,23 +601,7 @@ def view_stock_market():
 			time.sleep(2)
 
 def turtle_race():
-
-	"""
-	##################################################################
-
-	This entire piece of code is the property of TechWithTim. I have no rights claimed to
-	this code. All credit for this code is directed to Tim Ruscica. 
-
-	This code is not covered by any validated license. Again, I claim no credit for this code- 
-	all credit is directed to Tim Ruscica from TechWithTim. 
-
-	I have only made some minor edits to this code for my purposes.
-
-	-Sanchit
-
-	##################################################################
-	"""
-
+	
 	import math
 	import random
 	import turtle
