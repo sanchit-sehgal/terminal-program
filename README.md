@@ -3,6 +3,28 @@ This program aims to simplify use of the terminal for those with little to no ex
 
 Installing this program may seem tricky, but by using the installation guide below, you can have the program up and running in only 10-15 minutes. Once you have it installed, that's it! The terminal is at your command- from productivity commands to playing games, you can do nearly everything with this program. To get started with the installation guide below, open the terminal (**Ctrl+Alt+T** in most cases).
 
+## Installation Guide (for Windows & macOS)
+This program was not initially designed for Windows or macOS. However, there are several ways to run Linux on these operating systems- the best being a virtual machine. This installation guide will walk you through installing a virtual machine on your system and running an Arch-based Distribution on your VM. 
+
+There are a few caveats to this method. The first of these is that you will only be able to run this program in the Virtual Machine- once you close the VM, this program does not transfer to your main machine. To run it again, you will have to run your VM again. With that being said, we can get into the installation guide. 
+
+##### Step 1: Install VirtualBox
+VirtualBox is the VM that we will be using today. To install the program, please [go to the downloads page found here.](https://www.virtualbox.org/wiki/Downloads) Once you are at this downloads page, select which file you would like to install. You should make your selection based on the image below. 
+
+![alt text](screenshots/virtualboxdownload.png)
+
+If you are running Windows, please download VirtualBox titled "Windows hosts." If you are running macOS, please download VirtualBox titled "OS X hosts."
+
+Once you have downloaded your version, run the file. Follow the installation procedure. Once you have downloaded it successfully, you should see an opened VirtualBox instance, as seen in the image below.
+
+![alt text](screenshots/installedvm.png)
+
+You have sucessfully downloaded VirtualBox. Now, we need to install Manjaro, an Arch-Linux distribution. To do so, [go to the downloads page for Manjaro.](https://manjaro.org/downloads/official/gnome/) Download the 64-bit version of the operating system. This file will be large, so it may take some time to download. _Note: The file should end in .iso._
+
+Once you have downloaded the file, open VirtualBox again. Press "New" in the top left. Create an "Arch Linux 64-bit" virtual machine and upload your newly downloaded file. Once you have the virtual machine up and running, go through the process of successfully installing Manjaro using the prompts on the screen. 
+
+Once you have installed Manjaro, you are ready to use Terminal-Simplifier. To install the program, follow all consequent instructions for the installation guide on Arch-based Distributions. If there are any issues, please reference the "Troubleshooting" section.
+
 ## Installation Guide (Arch-based Distributions)
 
 ##### Install Git
@@ -138,6 +160,8 @@ You have fully installed and ran Terminal Simplifier on Debian! Congratulations!
 
 ## Troubleshooting Guide
 Throughout the installation of this program, your terminal may ask you to enter your "sudo" password. This is nothing to be afraid of. Unless you specifically set a "sudo" password when you installed your Linux distribution, it will normally be automatically set to your computer's login password.
+
+If you are having any issues installing VirtualBox on Windows (or running Manajaro on a virtual machine), please reference [this YouTube video.](https://www.youtube.com/watch?v=P62eAZQyjTc&t=835s) It is the best installation guide I could find. 
 
 If there are any other concerns/issues with installing the program, please send a request in the Issues tab of this repository. I will attend to it as soon as I can.
 
