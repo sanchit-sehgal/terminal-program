@@ -80,13 +80,13 @@ Once this command is finished executing, you have successfully installed Termina
 ##### Install Git
 Once you have opened your terminal, you need to first install git. In Ubuntu and Debian based distributions, git can be installed by typing the following code:
 ```
-sudo apt-get install git
+sudo apt-get install git -y
 ```
 
 ##### Install Python (and Pip)
 To install Python (and its package manager- pip), type the following code into your terminal:
 ```
-sudo apt-get install python
+sudo apt-get install python -y
 ```
 This will automatically download the latest version of Python onto your system. This is essential to run the program.
 
