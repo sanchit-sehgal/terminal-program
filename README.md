@@ -19,7 +19,10 @@ Once you have downloaded your version, run the file. Follow the installation pro
 
 ![alt text](screenshots/installedvm.png)
 
-You have sucessfully downloaded VirtualBox. Now, we need to install Manjaro, an Arch-Linux distribution. To do so, [go to the downloads page for Manjaro.](https://manjaro.org/downloads/official/gnome/) Download the 64-bit version of the operating system. This file will be large, so it may take some time to download. _Note: The file should end in .iso._
+You have sucessfully downloaded VirtualBox. 
+
+##### Install Manjaro on VirtualBox
+Now, we need to install Manjaro, an Arch-Linux distribution. To do so, [go to the downloads page for Manjaro.](https://manjaro.org/downloads/official/gnome/) Download the 64-bit version of the operating system. This file will be large, so it may take some time to download. _Note: The file should end in .iso._
 
 Once you have downloaded the file, open VirtualBox again. Press "New" in the top left. Create an "Arch Linux 64-bit" virtual machine and upload your newly downloaded file. Once you have the virtual machine up and running, go through the process of successfully installing Manjaro using the prompts on the screen. 
 
