@@ -178,7 +178,7 @@ For this repository's wiki, view [this page.](https://github.com/sanchit-sehgal/
 There are a few other documents that you may find important. 
 
 - To contribute to this repository, please reference [this page.](/CONTRIBUTING.md) 
-- To learn about security and malware prevention for this project, please view [this page.](SECURITY.md) 
+- To learn about security and malware prevention for this project, please view [this page.](/SECURITY.md) 
 - To view this repository's Code of Conduct, please view [this page.](/CODE_OF_CONDUCT.md) 
 - Finally, to view any Python pip packages that are supported by this repository, please view the folder titled ".github" that can be found in the contents of this repository (or can be found at [this link](https://github.com/sanchit-sehgal/terminal-simplifier/tree/main/.github/workflows)).
 
