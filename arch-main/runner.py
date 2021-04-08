@@ -85,9 +85,10 @@ def new_query():
 		play_sudoku()
 	elif action == 17:
 		play_tetris()
-	elif not (type(action) == int) or not 1<=action<=16:
-		print("Not a valid option!")
+	else:
+		print("This is not a valid option!")
 		print("")
+		
 
 def rerun_prog(): 
 	x = str(input("If you would like to run the program again, press Y. If not, press N: "))
